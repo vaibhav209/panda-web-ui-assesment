@@ -1,0 +1,6 @@
+{
+  "HOME": "/home",
+  "SIGNUP": "/",
+  "SIGNIN": "/signin",
+  "FORGOT_PASS": "/forgotpass"
+}
